@@ -1,0 +1,17 @@
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Calender.Tests.deps.json
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Calender.Tests.runtimeconfig.json
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Calender.Tests.runtimeconfig.dev.json
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Calender.Tests.dll
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Calender.Tests.pdb
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Calender.dll
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Calender.pdb
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp2.2\Calender.Tests.csprojAssemblyReference.cache
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp2.2\Calender.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp2.2\Calender.Tests.AssemblyInfoInputs.cache
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp2.2\Calender.Tests.AssemblyInfo.cs
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp2.2\Calender.Tests.csproj.CopyComplete
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp2.2\Calender.Tests.dll
+C:\Users\Pope\desktop\c#\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp2.2\Calender.Tests.pdb
